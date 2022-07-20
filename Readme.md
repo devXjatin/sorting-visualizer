@@ -1,8 +1,7 @@
-#Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
 This is a web application which is built using HTML5, CSS3, JavaScript to visualize sorting algorithms.
 
-**Live Applicaiton-**[Sorting Visualizer]
-(https://visualizer-sorting-algo.netlify.app)
+**Live Applicaiton-**[Sorting Visualizer](https://visualizer-sorting-algo.netlify.app)
 
 ### This Web Application supports the following sorting algortihms:
 
